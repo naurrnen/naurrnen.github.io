@@ -16,7 +16,7 @@ h1  {
   font-size: 28px;
 }
 
-main article div p img {
+article div figure img {
   text-align: center;
   width: 100%;
   margin: 0 20px;
@@ -32,19 +32,11 @@ a {
   font-style: bold;
 }
 
-section#pageContent main article div p {
-  text-align: justify;
-}
-
 figcaption {
   color: #ffffff;
   font-style: oblique;
   font-weight: bold;
   text-align: center;
-}
-
-figure.pic-banner img {
-  width: 100%;
 }
 
 footer {
